@@ -1,0 +1,11 @@
+D:\Dojos\Design Patterns\SimUDuck\SimUDuck\SimUDuck\bin\Debug\netcoreapp3.0\SimUDuck.exe
+D:\Dojos\Design Patterns\SimUDuck\SimUDuck\SimUDuck\bin\Debug\netcoreapp3.0\SimUDuck.deps.json
+D:\Dojos\Design Patterns\SimUDuck\SimUDuck\SimUDuck\bin\Debug\netcoreapp3.0\SimUDuck.runtimeconfig.json
+D:\Dojos\Design Patterns\SimUDuck\SimUDuck\SimUDuck\bin\Debug\netcoreapp3.0\SimUDuck.runtimeconfig.dev.json
+D:\Dojos\Design Patterns\SimUDuck\SimUDuck\SimUDuck\bin\Debug\netcoreapp3.0\SimUDuck.dll
+D:\Dojos\Design Patterns\SimUDuck\SimUDuck\SimUDuck\bin\Debug\netcoreapp3.0\SimUDuck.pdb
+D:\Dojos\Design Patterns\SimUDuck\SimUDuck\SimUDuck\obj\Debug\netcoreapp3.0\SimUDuck.csprojAssemblyReference.cache
+D:\Dojos\Design Patterns\SimUDuck\SimUDuck\SimUDuck\obj\Debug\netcoreapp3.0\SimUDuck.AssemblyInfoInputs.cache
+D:\Dojos\Design Patterns\SimUDuck\SimUDuck\SimUDuck\obj\Debug\netcoreapp3.0\SimUDuck.AssemblyInfo.cs
+D:\Dojos\Design Patterns\SimUDuck\SimUDuck\SimUDuck\obj\Debug\netcoreapp3.0\SimUDuck.dll
+D:\Dojos\Design Patterns\SimUDuck\SimUDuck\SimUDuck\obj\Debug\netcoreapp3.0\SimUDuck.pdb

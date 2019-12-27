@@ -1,0 +1,11 @@
+D:\Dojos\Design Patterns\StarbuzzCoffee\StarbuzzCoffee\StarbuzzCoffee\bin\Debug\netcoreapp3.0\StarbuzzCoffee.exe
+D:\Dojos\Design Patterns\StarbuzzCoffee\StarbuzzCoffee\StarbuzzCoffee\bin\Debug\netcoreapp3.0\StarbuzzCoffee.deps.json
+D:\Dojos\Design Patterns\StarbuzzCoffee\StarbuzzCoffee\StarbuzzCoffee\bin\Debug\netcoreapp3.0\StarbuzzCoffee.runtimeconfig.json
+D:\Dojos\Design Patterns\StarbuzzCoffee\StarbuzzCoffee\StarbuzzCoffee\bin\Debug\netcoreapp3.0\StarbuzzCoffee.runtimeconfig.dev.json
+D:\Dojos\Design Patterns\StarbuzzCoffee\StarbuzzCoffee\StarbuzzCoffee\bin\Debug\netcoreapp3.0\StarbuzzCoffee.dll
+D:\Dojos\Design Patterns\StarbuzzCoffee\StarbuzzCoffee\StarbuzzCoffee\bin\Debug\netcoreapp3.0\StarbuzzCoffee.pdb
+D:\Dojos\Design Patterns\StarbuzzCoffee\StarbuzzCoffee\StarbuzzCoffee\obj\Debug\netcoreapp3.0\StarbuzzCoffee.csprojAssemblyReference.cache
+D:\Dojos\Design Patterns\StarbuzzCoffee\StarbuzzCoffee\StarbuzzCoffee\obj\Debug\netcoreapp3.0\StarbuzzCoffee.AssemblyInfoInputs.cache
+D:\Dojos\Design Patterns\StarbuzzCoffee\StarbuzzCoffee\StarbuzzCoffee\obj\Debug\netcoreapp3.0\StarbuzzCoffee.AssemblyInfo.cs
+D:\Dojos\Design Patterns\StarbuzzCoffee\StarbuzzCoffee\StarbuzzCoffee\obj\Debug\netcoreapp3.0\StarbuzzCoffee.dll
+D:\Dojos\Design Patterns\StarbuzzCoffee\StarbuzzCoffee\StarbuzzCoffee\obj\Debug\netcoreapp3.0\StarbuzzCoffee.pdb

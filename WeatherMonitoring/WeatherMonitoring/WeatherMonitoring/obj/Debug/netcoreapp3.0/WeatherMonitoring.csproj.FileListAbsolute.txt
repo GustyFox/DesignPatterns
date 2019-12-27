@@ -1,0 +1,11 @@
+D:\Dojos\Design Patterns\WeatherMonitoring\WeatherMonitoring\WeatherMonitoring\obj\Debug\netcoreapp3.0\WeatherMonitoring.csprojAssemblyReference.cache
+D:\Dojos\Design Patterns\WeatherMonitoring\WeatherMonitoring\WeatherMonitoring\obj\Debug\netcoreapp3.0\WeatherMonitoring.AssemblyInfoInputs.cache
+D:\Dojos\Design Patterns\WeatherMonitoring\WeatherMonitoring\WeatherMonitoring\obj\Debug\netcoreapp3.0\WeatherMonitoring.AssemblyInfo.cs
+D:\Dojos\Design Patterns\WeatherMonitoring\WeatherMonitoring\WeatherMonitoring\bin\Debug\netcoreapp3.0\WeatherMonitoring.exe
+D:\Dojos\Design Patterns\WeatherMonitoring\WeatherMonitoring\WeatherMonitoring\bin\Debug\netcoreapp3.0\WeatherMonitoring.deps.json
+D:\Dojos\Design Patterns\WeatherMonitoring\WeatherMonitoring\WeatherMonitoring\bin\Debug\netcoreapp3.0\WeatherMonitoring.runtimeconfig.json
+D:\Dojos\Design Patterns\WeatherMonitoring\WeatherMonitoring\WeatherMonitoring\bin\Debug\netcoreapp3.0\WeatherMonitoring.runtimeconfig.dev.json
+D:\Dojos\Design Patterns\WeatherMonitoring\WeatherMonitoring\WeatherMonitoring\bin\Debug\netcoreapp3.0\WeatherMonitoring.dll
+D:\Dojos\Design Patterns\WeatherMonitoring\WeatherMonitoring\WeatherMonitoring\bin\Debug\netcoreapp3.0\WeatherMonitoring.pdb
+D:\Dojos\Design Patterns\WeatherMonitoring\WeatherMonitoring\WeatherMonitoring\obj\Debug\netcoreapp3.0\WeatherMonitoring.dll
+D:\Dojos\Design Patterns\WeatherMonitoring\WeatherMonitoring\WeatherMonitoring\obj\Debug\netcoreapp3.0\WeatherMonitoring.pdb
