@@ -1,0 +1,11 @@
+C:\Users\Dell Precision\source\repos\DesignPatterns\Choco-O-Holic\Choco-O-Holic\bin\Debug\netcoreapp2.2\Choco-O-Holic.deps.json
+C:\Users\Dell Precision\source\repos\DesignPatterns\Choco-O-Holic\Choco-O-Holic\bin\Debug\netcoreapp2.2\Choco-O-Holic.runtimeconfig.json
+C:\Users\Dell Precision\source\repos\DesignPatterns\Choco-O-Holic\Choco-O-Holic\bin\Debug\netcoreapp2.2\Choco-O-Holic.runtimeconfig.dev.json
+C:\Users\Dell Precision\source\repos\DesignPatterns\Choco-O-Holic\Choco-O-Holic\bin\Debug\netcoreapp2.2\Choco-O-Holic.dll
+C:\Users\Dell Precision\source\repos\DesignPatterns\Choco-O-Holic\Choco-O-Holic\bin\Debug\netcoreapp2.2\Choco-O-Holic.pdb
+C:\Users\Dell Precision\source\repos\DesignPatterns\Choco-O-Holic\Choco-O-Holic\obj\Debug\netcoreapp2.2\Choco-O-Holic.csprojAssemblyReference.cache
+C:\Users\Dell Precision\source\repos\DesignPatterns\Choco-O-Holic\Choco-O-Holic\obj\Debug\netcoreapp2.2\Choco-O-Holic.csproj.CoreCompileInputs.cache
+C:\Users\Dell Precision\source\repos\DesignPatterns\Choco-O-Holic\Choco-O-Holic\obj\Debug\netcoreapp2.2\Choco-O-Holic.AssemblyInfoInputs.cache
+C:\Users\Dell Precision\source\repos\DesignPatterns\Choco-O-Holic\Choco-O-Holic\obj\Debug\netcoreapp2.2\Choco-O-Holic.AssemblyInfo.cs
+C:\Users\Dell Precision\source\repos\DesignPatterns\Choco-O-Holic\Choco-O-Holic\obj\Debug\netcoreapp2.2\Choco-O-Holic.dll
+C:\Users\Dell Precision\source\repos\DesignPatterns\Choco-O-Holic\Choco-O-Holic\obj\Debug\netcoreapp2.2\Choco-O-Holic.pdb

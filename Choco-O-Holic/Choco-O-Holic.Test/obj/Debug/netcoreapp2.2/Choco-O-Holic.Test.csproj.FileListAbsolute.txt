@@ -1,0 +1,17 @@
+C:\Users\Dell Precision\source\repos\DesignPatterns\Choco-O-Holic\Choco-O-Holic.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Dell Precision\source\repos\DesignPatterns\Choco-O-Holic\Choco-O-Holic.Test\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Dell Precision\source\repos\DesignPatterns\Choco-O-Holic\Choco-O-Holic.Test\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Dell Precision\source\repos\DesignPatterns\Choco-O-Holic\Choco-O-Holic.Test\bin\Debug\netcoreapp2.2\Choco-O-Holic.Test.deps.json
+C:\Users\Dell Precision\source\repos\DesignPatterns\Choco-O-Holic\Choco-O-Holic.Test\bin\Debug\netcoreapp2.2\Choco-O-Holic.Test.runtimeconfig.json
+C:\Users\Dell Precision\source\repos\DesignPatterns\Choco-O-Holic\Choco-O-Holic.Test\bin\Debug\netcoreapp2.2\Choco-O-Holic.Test.runtimeconfig.dev.json
+C:\Users\Dell Precision\source\repos\DesignPatterns\Choco-O-Holic\Choco-O-Holic.Test\bin\Debug\netcoreapp2.2\Choco-O-Holic.Test.dll
+C:\Users\Dell Precision\source\repos\DesignPatterns\Choco-O-Holic\Choco-O-Holic.Test\bin\Debug\netcoreapp2.2\Choco-O-Holic.Test.pdb
+C:\Users\Dell Precision\source\repos\DesignPatterns\Choco-O-Holic\Choco-O-Holic.Test\bin\Debug\netcoreapp2.2\Choco-O-Holic.dll
+C:\Users\Dell Precision\source\repos\DesignPatterns\Choco-O-Holic\Choco-O-Holic.Test\bin\Debug\netcoreapp2.2\Choco-O-Holic.pdb
+C:\Users\Dell Precision\source\repos\DesignPatterns\Choco-O-Holic\Choco-O-Holic.Test\obj\Debug\netcoreapp2.2\Choco-O-Holic.Test.csprojAssemblyReference.cache
+C:\Users\Dell Precision\source\repos\DesignPatterns\Choco-O-Holic\Choco-O-Holic.Test\obj\Debug\netcoreapp2.2\Choco-O-Holic.Test.csproj.CoreCompileInputs.cache
+C:\Users\Dell Precision\source\repos\DesignPatterns\Choco-O-Holic\Choco-O-Holic.Test\obj\Debug\netcoreapp2.2\Choco-O-Holic.Test.AssemblyInfoInputs.cache
+C:\Users\Dell Precision\source\repos\DesignPatterns\Choco-O-Holic\Choco-O-Holic.Test\obj\Debug\netcoreapp2.2\Choco-O-Holic.Test.AssemblyInfo.cs
+C:\Users\Dell Precision\source\repos\DesignPatterns\Choco-O-Holic\Choco-O-Holic.Test\obj\Debug\netcoreapp2.2\Choco-O-Holic.Test.csproj.CopyComplete
+C:\Users\Dell Precision\source\repos\DesignPatterns\Choco-O-Holic\Choco-O-Holic.Test\obj\Debug\netcoreapp2.2\Choco-O-Holic.Test.dll
+C:\Users\Dell Precision\source\repos\DesignPatterns\Choco-O-Holic\Choco-O-Holic.Test\obj\Debug\netcoreapp2.2\Choco-O-Holic.Test.pdb
