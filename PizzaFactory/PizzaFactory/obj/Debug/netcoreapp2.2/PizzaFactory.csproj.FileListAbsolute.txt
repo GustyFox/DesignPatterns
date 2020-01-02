@@ -1,0 +1,11 @@
+C:\Users\Dell Precision\source\repos\DesignPatterns\PizzaFactory\PizzaFactory\obj\Debug\netcoreapp2.2\PizzaFactory.csprojAssemblyReference.cache
+C:\Users\Dell Precision\source\repos\DesignPatterns\PizzaFactory\PizzaFactory\obj\Debug\netcoreapp2.2\PizzaFactory.csproj.CoreCompileInputs.cache
+C:\Users\Dell Precision\source\repos\DesignPatterns\PizzaFactory\PizzaFactory\obj\Debug\netcoreapp2.2\PizzaFactory.AssemblyInfoInputs.cache
+C:\Users\Dell Precision\source\repos\DesignPatterns\PizzaFactory\PizzaFactory\obj\Debug\netcoreapp2.2\PizzaFactory.AssemblyInfo.cs
+C:\Users\Dell Precision\source\repos\DesignPatterns\PizzaFactory\PizzaFactory\bin\Debug\netcoreapp2.2\PizzaFactory.deps.json
+C:\Users\Dell Precision\source\repos\DesignPatterns\PizzaFactory\PizzaFactory\bin\Debug\netcoreapp2.2\PizzaFactory.runtimeconfig.json
+C:\Users\Dell Precision\source\repos\DesignPatterns\PizzaFactory\PizzaFactory\bin\Debug\netcoreapp2.2\PizzaFactory.runtimeconfig.dev.json
+C:\Users\Dell Precision\source\repos\DesignPatterns\PizzaFactory\PizzaFactory\bin\Debug\netcoreapp2.2\PizzaFactory.dll
+C:\Users\Dell Precision\source\repos\DesignPatterns\PizzaFactory\PizzaFactory\bin\Debug\netcoreapp2.2\PizzaFactory.pdb
+C:\Users\Dell Precision\source\repos\DesignPatterns\PizzaFactory\PizzaFactory\obj\Debug\netcoreapp2.2\PizzaFactory.dll
+C:\Users\Dell Precision\source\repos\DesignPatterns\PizzaFactory\PizzaFactory\obj\Debug\netcoreapp2.2\PizzaFactory.pdb
