@@ -1,0 +1,11 @@
+C:\Users\Dell Precision\source\repos\DesignPatterns\HomeAutomationRemoteControl\HomeAutomationRemoteControl\obj\Debug\netcoreapp2.2\HomeAutomationRemoteControl.csprojAssemblyReference.cache
+C:\Users\Dell Precision\source\repos\DesignPatterns\HomeAutomationRemoteControl\HomeAutomationRemoteControl\obj\Debug\netcoreapp2.2\HomeAutomationRemoteControl.csproj.CoreCompileInputs.cache
+C:\Users\Dell Precision\source\repos\DesignPatterns\HomeAutomationRemoteControl\HomeAutomationRemoteControl\obj\Debug\netcoreapp2.2\HomeAutomationRemoteControl.AssemblyInfoInputs.cache
+C:\Users\Dell Precision\source\repos\DesignPatterns\HomeAutomationRemoteControl\HomeAutomationRemoteControl\obj\Debug\netcoreapp2.2\HomeAutomationRemoteControl.AssemblyInfo.cs
+C:\Users\Dell Precision\source\repos\DesignPatterns\HomeAutomationRemoteControl\HomeAutomationRemoteControl\bin\Debug\netcoreapp2.2\HomeAutomationRemoteControl.deps.json
+C:\Users\Dell Precision\source\repos\DesignPatterns\HomeAutomationRemoteControl\HomeAutomationRemoteControl\bin\Debug\netcoreapp2.2\HomeAutomationRemoteControl.runtimeconfig.json
+C:\Users\Dell Precision\source\repos\DesignPatterns\HomeAutomationRemoteControl\HomeAutomationRemoteControl\bin\Debug\netcoreapp2.2\HomeAutomationRemoteControl.runtimeconfig.dev.json
+C:\Users\Dell Precision\source\repos\DesignPatterns\HomeAutomationRemoteControl\HomeAutomationRemoteControl\bin\Debug\netcoreapp2.2\HomeAutomationRemoteControl.dll
+C:\Users\Dell Precision\source\repos\DesignPatterns\HomeAutomationRemoteControl\HomeAutomationRemoteControl\bin\Debug\netcoreapp2.2\HomeAutomationRemoteControl.pdb
+C:\Users\Dell Precision\source\repos\DesignPatterns\HomeAutomationRemoteControl\HomeAutomationRemoteControl\obj\Debug\netcoreapp2.2\HomeAutomationRemoteControl.dll
+C:\Users\Dell Precision\source\repos\DesignPatterns\HomeAutomationRemoteControl\HomeAutomationRemoteControl\obj\Debug\netcoreapp2.2\HomeAutomationRemoteControl.pdb
